@@ -1,0 +1,3 @@
+[submodule "DrugieREPO"]
+	path = DrugieREPO
+	url = git@github.com:Kitkacy/DrugieREPO.git
